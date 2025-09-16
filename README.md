@@ -1,6 +1,6 @@
 ## Hi 👾, I'm here 👋
 <p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/e0fbbe308cd8995ebbd90f0b8789df02b8a8500b/about_me.gif" /></p>
-<p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/e0fbbe308cd8995ebbd90f0b8789df02b8a8500b/about_me.gif" /></p>
+<p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/caa410ebd577d6d0e1771204101d8f2c45e91113/github-contribution-grid-snake.svg" /></p>
 <p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/e0fbbe308cd8995ebbd90f0b8789df02b8a8500b/about_me.gif" /></p>
 
 A passionate Cybersecurity Enthuasiastic from Sri Lanka⚜️.
