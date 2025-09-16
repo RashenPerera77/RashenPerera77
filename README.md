@@ -1,9 +1,6 @@
 ## Hi 👾, I'm here 👋
+![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/369882d1a4626325a874e1ebf0cd1c465c01000c/about_me.gif)
 
-<!--![about_me](https://github.com/user-attachments/assets/6ee0a586-07ca-4b07-9fa3-8160a4697643)
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/98661c9b-472d-46c5-af30-0086e34758a1)
-Here My linkedin
-<img width="450" height="450" alt="qrcode_www linkedin com" src="https://github.com/user-attachments/assets/40d31b34-cfa1-4c3c-ab92-8df4abfd92df" />
 
 **RashenPerera77/RashenPerera77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
