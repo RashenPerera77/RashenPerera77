@@ -23,7 +23,7 @@ This is a Rashen Perera's😎 ✨ _Special_ ✨ Repository⚜️.
 - ⚡🎭Fun fact: Hackers Love Holidays🎭...
 -->
 <h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/rashen-perera-271857300" target="_blank">
-  <img src="linkedin-logo.png" alt="LinkedIn Profile">
+  <img src="[linkedin-logo.png](https://github.com/RashenPerera77/RashenPerera77/blob/98a93bd95044151fc17ebc7ecb1af5634edf182e/linkedin-logo.png.png)" alt="LinkedIn Profile">
 </a>
 
 
