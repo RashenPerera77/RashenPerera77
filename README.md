@@ -7,7 +7,7 @@ A passionate Cybersecurity Enthuasiastic from Sri Lanka⚜️.
 ![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/90661404bae6a3400492ee66715158ee38f8eed3/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 This is a Rashen Perera's😎 ✨ _Special_ ✨ Repository⚜️.
-![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/90661404bae6a3400492ee66715158ee38f8eed3/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)(https://github.com/RashenPerera77/RashenPerera77/blob/90661404bae6a3400492ee66715158ee38f8eed3/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/90661404bae6a3400492ee66715158ee38f8eed3/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 🏆GitHub Trophies
 ![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/544353fb0182e9432ad718e5b24399df80b3162c/tropy.svg)
 
