@@ -24,7 +24,7 @@ This is a Rashen Perera's😎 ✨ _Special_ ✨ Repository⚜️.
 -->
 <h3 align="left">Connect with me:</h3> 
 <a href="https://www.linkedin.com/in/rashen-perera-271857300" target="_blank">
-  <img src="https://github.com/RashenPerera77/RashenPerera77/blob/98a93bd95044151fc17ebc7ecb1af5634edf182e/linkedin-logo.png.png" alt="LinkedIn Profile">
+  <img src="https://github.com/RashenPerera77/RashenPerera77/blob/21b129371e5f9955140e22ab8307cda26e202f54/linkedin-logo.png.png" alt="LinkedIn Profile">
 </a>
 
 
