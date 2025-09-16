@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/e0fbbe308cd8995ebbd90f0b8789df02b8a8500b/about_me.gif" /></p>
-<h2 align="center">Hi 👾, I'm Rashen Perera</h2>
+<h1 align="center">Hi 👾, I'm Rashen Perera</h1>
 <p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/647f4d9e43c61f80f5cb630ffb6543597d302a79/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></p>
 
 <p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/caa410ebd577d6d0e1771204101d8f2c45e91113/github-contribution-grid-snake.svg" /></p>
@@ -24,8 +24,9 @@ This is a Rashen Perera's😎 ✨ _Special_ ✨ Repository⚜️.
 -->
 <h3 align="left">Connect with me:</h3> 
 <a href="https://www.linkedin.com/in/rashen-perera-271857300" target="_blank">
-  <img src="https://raw.githubusercontent.com/RashenPerera77/RashenPerera77/21b129371e5f9955140e22ab8307cda26e202f54/linkedin-logo.png" alt="LinkedIn Profile" style="width: 50px; height: 50px; border-radius: 50%;">
+  <img src="https://github.com/RashenPerera77/RashenPerera77/blob/21b129371e5f9955140e22ab8307cda26e202f54/linkedin-logo.png.png" alt="LinkedIn Profile" style="width: 50px; height: 50px; border-radius: 50%;">
 </a>
+
 
 
 
