@@ -1,5 +1,5 @@
 ## Hi 👾, I'm here 👋
-![image alt = "left"](https://github.com/RashenPerera77/RashenPerera77/blob/369882d1a4626325a874e1ebf0cd1c465c01000c/about_me.gif)
+![image alt = "right"](https://github.com/RashenPerera77/RashenPerera77/blob/369882d1a4626325a874e1ebf0cd1c465c01000c/about_me.gif)
 ![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/90661404bae6a3400492ee66715158ee38f8eed3/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
