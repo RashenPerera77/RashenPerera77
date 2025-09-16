@@ -3,10 +3,10 @@
 ![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/90661404bae6a3400492ee66715158ee38f8eed3/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/92709360d4591e97dbb4def26bd280df971e9ce1/github-contribution-grid-snake.svg)
 ![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/90661404bae6a3400492ee66715158ee38f8eed3/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-A passionate Cybersecurity Enthuasiastic from Sri Lanka
+A passionate Cybersecurity Enthuasiastic from Sri Lanka 🇱🇰
 ![image alt](https://github.com/RashenPerera77/RashenPerera77/blob/90661404bae6a3400492ee66715158ee38f8eed3/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-This is a ✨ _Special_ ✨ Repository of Rashen Perera😎.
+This is a Rashen Perera's😎 ✨ _Special_ ✨ Repository.
 
 
 - 🔭 I’m currently working on Networking🌐...
