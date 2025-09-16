@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/e0fbbe308cd8995ebbd90f0b8789df02b8a8500b/about_me.gif" /></p>
 <h3 align="center">Hi 👾, I'm Rashen Perera</h3>
-<p align="center"> <img src="" /></p>
+<p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/647f4d9e43c61f80f5cb630ffb6543597d302a79/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></p>
 
 <p align="center"> <img src="https://github.com/RashenPerera77/RashenPerera77/blob/caa410ebd577d6d0e1771204101d8f2c45e91113/github-contribution-grid-snake.svg" /></p>
 
