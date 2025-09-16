@@ -22,7 +22,7 @@ This is a Rashen Perera's😎 ✨ _Special_ ✨ Repository⚜️.
 - 😎 Pronouns: Astroboy🦸🏻‍♂...
 - ⚡🎭Fun fact: Hackers Love Holidays🎭...
 -->
-<h3 align="left">Connect with me:</h3><a href="www.linkedin.com/in/rashen-perera-271857300" target="blank">
+<h3 align="left">Connect with me:</h3> <p><a href="www.linkedin.com/in/rashen-perera-271857300" target="blank"></p>
 <p align="left">
 <a href="www.linkedin.com/in/rashen-perera-271857300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashen perera" height="30" width="40" /></a>
 </p>
